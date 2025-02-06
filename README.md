@@ -17,3 +17,22 @@ pip install open-webui
 
 open-webui serve
 ```
+
+
+
+
+<br><br>
+<br><br>
+___
+<br><br>
+<br><br>
+
+# Start
+```shell
+cd ~/Projects/ai/GUI
+
+python3 -m venv venv
+source venv/bin/activate
+
+open-webui serve
+```
